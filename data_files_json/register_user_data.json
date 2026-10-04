@@ -1,0 +1,23 @@
+{
+    "data":[{
+        "url":"https://automationexercise.com/",
+        "name":"lakshit",
+        "email":"lakshit_12@gmail.com",
+        "title":"Mrs",
+        "password":"lakshit45@L",
+        "day":"11",
+        "month":"march",
+        "year":"2000",
+        "first_name":"lakshit_",
+        "last_name":"mahajan",
+        "company":"tlm",
+        "address":"flat number #",
+        "address2":"xyz",
+        "country":"Australia",
+        "state":"Melbourne",
+        "city":"xyz",
+        "zipcode":"23455",
+        "mobile":"202003030"
+
+    }]
+}
