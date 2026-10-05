@@ -1,6 +1,6 @@
 from modules import *
 
-# driver  = None
+driver  = None
 def pytest_addoption(parser):
     # Add a custom command-line argument
     parser.addoption(
