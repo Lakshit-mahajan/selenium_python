@@ -14,7 +14,7 @@ def browser_fixture(request):
     browser = request.config.getoption("browser")
     if browser == "edge":
         option = webdriver.EdgeOptions()
-        option.add_argument("--headless")
+        # option.add_argument("--headless")
         driver = webdriver.Edge(options=option)
 
     elif browser == "firefox":
